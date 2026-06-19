@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Aanya Garg
+<div align="center"> <h2>🎓 About Me</h2> <p> Computer Science student with a passion for <strong>Cybersecurity</strong>, <strong>Artificial Intelligence</strong>, and <strong>Machine Learning</strong>. I enjoy learning new technologies, solving real-world problems, and continuously strengthening my technical skills. </p> </div> <hr>
 
-<!--
-**Aanyagarg21/Aanyagarg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student with a passion for Cybersecurity, Artificial Intelligence, and Machine Learning. I enjoy learning new technologies, solving real-world problems, and continuously strengthening my technical skills.
 
-Here are some ideas to get you started:
+🚀 About Me
+   🔐 Aspiring Cybersecurity Professional
+   🤖 Exploring AI and Machine Learning applications
+   ☕ Learning Java and strengthening programming fundamentals
+   🌱 Continuously improving through hands-on learning and internships
+   💡 Interested in problem-solving, secure systems, and data-driven solutions
+   🛠️ Technical Skills
+Languages: Java, Python, HTML, CSS
+Concepts: Object-Oriented Programming, Data Structures, Networking Basics
+Domains: Cybersecurity, Artificial Intelligence, Machine Learning
+Tools: Git, GitHub, VS Code
+📚 Currently Learning
+   Network Security
+   Ethical Hacking Fundamentals
+   Machine Learning Algorithms
+   AI Development
+   Linux and Command Line
+🎯 Career Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to build expertise in cybersecurity while applying AI and machine learning to solve practical security and business challenges.
+
+📫 Connect With Me
+
+I'm always open to learning, collaboration, and new opportunities. Feel free to explore my repositories and follow my journey as I continue expanding my skills
+⭐ Thanks for visiting my profile!
